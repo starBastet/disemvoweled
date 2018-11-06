@@ -1,0 +1,43 @@
+#puzzleContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:30px;
+	left:110%;
+	width:100%;
+	height:100px;
+	transition:all 500ms;
+}
+
+#puzzleContainer.show
+{
+	left:0;
+}
+
+#puzzleContainer.removal
+{
+	left:-200%;
+}
+
+#puzzleWord
+{
+	position:relative;
+	margin:0 auto;
+	top:0;
+	width:100%;
+	height:auto;
+	color:#4e4e4e;
+	text-align:center;
+	font-size:2.2em;
+	font-weight:bold;
+	opacity:1;
+	transform:scale(1,1);
+	transition:all 500ms;
+}
+
+#puzzleWord.solved
+{
+	top:-50%;
+	/*font-size:5em;*/
+	transform:scale(1.7,1.7);
+}

@@ -1,0 +1,18 @@
+#hudContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:60px;
+	width:100%;
+	height:auto;
+}
+
+#hudButtons
+{
+	position:relative;
+	float:right;
+	margin:0 auto;
+	margin-top:10px;
+	width:80px;
+	height:auto;
+}

@@ -1,0 +1,16 @@
+#hintContainer
+{
+	position:relative;
+	float:right;
+	margin:0 auto;
+	margin-right:8px;
+	padding-top:5px;
+	width:30px;
+	height:25px;
+	color:#fff;
+	text-align:center;
+	font-size:1.2em;
+	font-weight:bold;
+	border-radius:50%;
+	background:#c4df9b;
+}

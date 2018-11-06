@@ -1,0 +1,41 @@
+#categoryListItemContainer
+{
+	position:relative;
+	margin:0 auto;
+	width:auto;
+	height:auto;
+}
+
+.categoryListItem
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:15px;
+	margin-bottom:15px;
+	width:100%;
+	height:auto;
+	color:#749643;
+	font-size:1.3em;
+	font-weight:bold;
+	text-align:center;
+}
+
+.chosen
+{
+	color:#99b46f;
+}
+
+.completed
+{
+	position:absolute;
+	margin:0 auto;
+	top:0;
+	left:5px;
+	width:20px;
+	height:20px;
+	background-color:#749643;
+	background-image:url(img/iconCheck.png);
+	background-repeat:no-repeat;
+	background-size:20px 20px;
+	border-radius:50%;
+}

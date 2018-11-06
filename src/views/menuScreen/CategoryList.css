@@ -1,0 +1,27 @@
+#categoryListContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:40px;
+	width:90%;
+	height:auto;
+	border:2px solid #8fab65;
+	background:#ecf4de;
+}
+
+#categoryListTitle
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:-10px;
+	margin-bottom:20px;
+	padding-bottom:5px;
+	width:160px;
+	height:auto;
+	color:#749643;
+	letter-spacing:.12em;
+	font-size:1.05em;
+	font-weight:normal;
+	text-align:center;
+	background:#fff;
+}

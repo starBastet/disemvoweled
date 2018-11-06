@@ -1,0 +1,55 @@
+{
+  "INSTRUCTIONS_A":
+  {
+    "HEADER_TEXT":"HOW TO PLAY",
+    "BLURB":"A word without its vowels will appear on the screen. Type the full word with vowels included. There are 30 words per category."
+  },
+  "CATEGORY_LIST_A":
+  [
+    "ANIMALS",
+    "BIRDS",
+    "CARTOON CHARACTERS",
+    "CLOTHES",
+    "COLLEGE",
+    "CONTAINERS",
+    "FLORA",
+    "FOOD",
+    "GAMES",
+    "HOME",
+    "HOSPITAL",
+    "INSECTS",
+    "KITCHEN",
+    "MUSIC",
+    "OCCUPATIONS",
+    "OCEAN",
+    "OFFICE",
+    "PARTY TIME",
+    "TECHNOLOGY",
+    "VEHICLES",
+    "WEATHER"
+  ],
+  "WORD_LISTS_A":
+  {
+    "ANIMALS":"cat fish elephant horse lizard chicken kangaroo wolf squirrel flamingo sheep rabbit gopher hippopotamus honeybee leopard ferret caterpillar dolphin crocodile monkey shark coyote antelope octopus ostrich aardvark snake raccoon peacock",
+    "BIRDS":"sparrow finch tern duck swan flamingo hummingbird cardinal quail rooster swallow parakeet mockingbird pelican cormorant vulture canary parrot nightingale bluejay ostrich cockatiel dove bowerbird pigeon toucan owl goose eagle emu",
+    "CARTOON CHARACTERS":"daffy bart bugs hank garfield spongebob betty sylvester bullwinkle tinkerbell stewie foghorn homer porky felix archer squidward heathcliff megatron mickey quagmire pepe popeye huckleberry cinderella bender phineas yogi tweetie doofenschmirtz",
+    "CLOTHES":"shirt vest socks glasses sundress pants skirt cummerbund scarf galoshes bracelet shoes necktie blazer nightgown necklace tuxedo belt raincoat costume jacket sweatpants bathrobe trousers gloves sweater ascot earrings underwear fedora",
+    "COLLEGE":"class grades test campus lecture professor graduate study calculator assignment schedule diploma mathematics teacher sophomore essay cafeteria events reading education enroll homework dormitory learn textbook library tutor degree exam tuition",
+    "CONTAINERS":"bottle box wrapper trunk ashtray bowl tupperware luggage bucket kennel casket refrigerator tortilla canister stomach cupboard suitcase folder locker elevator wineglass briefcase thermos fireplace drawer vat attic aquarium reservoir silo",
+    "FLORA":"daffodil almond blueberry sagebrush wheat maple ginseng cabbage pineapple spinach dandelion cactus coconut lily walnut pinecone basil blossom crabgrass tangerine seedling apple cauliflower forest foxtail mushroom evergreen acorn olive peach",
+    "FOOD":"cheeseburger lasagna burrito milk noodles candy pancake sugar cracker sandwich popsicle eggs turkey broccoli spaghetti watermelon cheese popcorn barbecue bacon lobster waffle yogurt potato salmon jambalaya lettuce avocado orange calamari",
+    "GAMES":"sorry mousetrap golf pong blackjack poker scrabble baseball bowling cribbage solitaire darts soccer billiards pinochle mahjong spades shuffleboard checkers canasta dominoes badminton operation parcheesi backgammon polo horseshoes bocce pool uno",
+    "HOME":"window clock bed mailbox dresser mattress shower backyard sidewalk photos curtain fence foyer countertop drawer carpet garden fireplace shelving chair doorknob bedroom bookcase chimney table skylight address toilet television hardwood",
+    "HOSPITAL":"ambulance doctor stitches pills gurney sickness bandage crutches stethoscope fracture wheelchair infection emergency fever gloves blood medicine health dosage nurse cancer insurance examination scale prescription placebo disease bedpan needle catheter",
+    "INSECTS":"ladybug gnat tick grasshopper moth wasp dragonfly cricket locust pillbug butterfly cicada termite ant centipede mosquito mantis cockroach stinkbug scarab firefly silverfish beetle scorpion katydid earwig aphid weevil louse flea",
+    "KITCHEN":"sink dishes knife plate pantry microwave sponge burner timer baking refrigerator saucepan dishwasher spices garbage towel boiling banana colander silverware blender cabinet cleaver salad spoon saucer tomato oven faucet teacup",
+    "MUSIC":"song guitar record chord drumstick melody concert radio scale band album speaker amplifier snare performance track microphone singer cymbal orchestra soundtrack harmony bass volume chord chorus anthem piano video acoustic",
+    "OCCUPATIONS":"driver butler paramedic chef banker waiter musician artist farmer judge cashier undertaker fisherman lawyer president officer librarian winemaker machinist plumber gardener veterinarian mechanic conductor therapist jockey pilot mailman surgeon mayor",
+    "OCEAN":"shrimp clam kelp walrus crab snail seagull hammerhead sardine waves barnacle whale cuttlefish sponge plankton mollusk angelfish narwhal pelican starfish penguin albatross jellyfish flounder turtle stingray seaweed seahorse manatee coral",
+    "OFFICE":"desk inbox meetings project telephone printer pencil whiteboard nameplate deadline conference secretary workload report business stapler projector writers document employment computer doughnut paper manager corporate executive elevator coffee eraser copier",
+    "PARTY TIME":"candles snacks friends raffle chips music birthday games photos dancing singing dinner banner punchbowl potluck talking celebration laughter decorations swimming noisemakers activities memories conversation streamers invitations food social fun beer",
+    "TECHNOLOGY":"computer digital internet browser monitor smartphone bluetooth network texting google touchscreen drive wireless megabyte keyboard download laptop program website pixel microchip tablet streaming electronic application binary stylus online email ethernet",
+    "VEHICLES":"car truck bicycle minivan speedboat airplane skateboard spaceship ferry helicopter submarine stagecoach train taxicab tricycle hovercraft trolley shuttle steamboat rickshaw motorcycle glider rowboat tractor surfboard scooter carriage unicycle moped limousine",
+    "WEATHER":"snow cloud wind fog frost hurricane thunder mudslide blizzard gale tornado heatwave lightning typhoon climate flood downpour monsoon storm humidity sleet drought avalanche rainbow freezing overcast rain tsunami hail icicle"
+  }
+}

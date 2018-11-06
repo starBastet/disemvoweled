@@ -1,0 +1,13 @@
+#backButtonContainer
+{
+	position:relative;
+	float:right;
+	margin:0 auto;
+	margin-right:5px;
+	width:30px;
+	height:30px;
+	background:#c4df9b;
+	mask-image:url(./img/arrowBtn.png);
+	mask-repeat:no-repeat;
+	transform:scaleX(-1);
+}

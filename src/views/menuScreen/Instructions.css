@@ -1,0 +1,33 @@
+#instructionsContainer
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:80px;
+	padding-bottom:3px;
+	width:100%;
+	height:auto;
+	color:#749642;
+}
+
+#instructionsTitle
+{
+	position:relative;
+	margin:0 auto;
+	margin-bottom:10px;
+	width:90%;
+	height:auto;
+	font-weight:bold;
+	font-size:1.4em;
+	letter-spacing:.15em;
+	text-align:center;
+}
+
+#instructionsBlurb
+{
+	position:relative;
+	margin:0 auto;
+	width:90%;
+	line-height:1.2em;
+	height:auto;
+	text-align:justify;
+}

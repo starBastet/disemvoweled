@@ -1,0 +1,56 @@
+#completeScreenContainer
+{
+	position:absolute;
+	margin:0 auto;
+	margin-top:-500px;
+	width:100%;
+	height:auto;
+	text-align:center;
+	color:#749643;
+	z-index:9000;
+	transition:all 500ms ease-in-out;
+}
+
+#completeScreenContainer.show
+{
+	margin-top:100px;
+}
+
+#completeHeader
+{
+	position:relative;
+	margin:0 auto;
+	width:100%;
+	height:auto;
+	font-size:2em;
+	font-weight:bold;
+	letter-spacing:.05em;
+}
+
+#completeCategory
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:40px;
+	width:100%;
+	height:auto;
+	color:#fff;
+	font-size:1.5em;
+	font-weight:bold;
+	letter-spacing:.05em;
+}
+
+#completeButton
+{
+	position:relative;
+	margin:0 auto;
+	margin-top:69px;
+	left:8px;
+	width:35px;
+	height:35px;
+	background:url(./img/arrowBtn.png) no-repeat;
+	transform:scale(1.5,1.5);
+	/*mask-image:url(./img/arrowBtn.png);
+	mask-repeat:no-repeat;
+	transform:scaleX(-1);*/
+}
